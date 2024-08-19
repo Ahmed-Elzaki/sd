@@ -1,0 +1,29 @@
+.hello {
+    padding: 10px;
+    margin: 10px;
+}
+
+.img {
+    height: auto; /* Adjusted to maintain aspect ratio */
+    width: 100%; /* Adjusted for responsiveness */
+    max-height: 200px; /* Set max-height for larger screens */
+    max-width: 300px; /* Set max-width to avoid overflow */
+    margin: 10px;
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3);
+    border-radius: 10px;
+    display: block; /* Ensure the image aligns properly */
+    object-fit: cover; /* Cover the area without stretching */
+}
+
+.container1 {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px; /* Added gap for consistent spacing between items */
+}
+
+.inner-container {
+    margin: 10px 5px; /* Adjusted margin for better consistency */
+}
+.title{
+			text-align: center;
+}
