@@ -65,8 +65,8 @@ body {
 
     .nav-ele ul {
         display: inline-flex;
-        gap: 20px; /* Adjusted gap for larger screens */
-    }
+        gap: 8rem; /* Adjusted gap for larger screens */
+        
 }
 
 .profile {
