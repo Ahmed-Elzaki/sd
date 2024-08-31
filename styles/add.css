@@ -11,7 +11,7 @@
     margin: 10px;
     object-fit: cover;
     object-position: center; /* Center the focal point of the image */
-    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.6);
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.9);
     border-radius: 10px;
     display: block; /* Ensure the image aligns properly */
     object-fit: cover; /* Cover the area without stretching */
