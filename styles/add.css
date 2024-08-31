@@ -27,7 +27,7 @@
     margin: 10px 5px; /* Adjusted margin for better consistency */
 }
 .title{
-			text-align: center;
+text-align: center;
 }
 .img:hover {
     transform: scale(1.05);
