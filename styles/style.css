@@ -33,8 +33,8 @@ body {
     text-decoration: none;
 }
 .nav-ele a:hover {
-    color: #ff5722; /* Change the color on hover */
-    border-bottom: 2px solid #ff5722; /* Add an underline effect */
+    color:cadetblue; /* Change the color on hover */
+    border-bottom: 2px solid cadetblue; /* Add an underline effect */
 }
 
 /* Responsive Styles */
