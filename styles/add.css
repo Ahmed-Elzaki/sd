@@ -9,6 +9,8 @@
     max-height: 200px; /* Set max-height for larger screens */
     max-width: 300px; /* Set max-width to avoid overflow */
     margin: 10px;
+    object-fit: cover;
+    object-position: center; /* Center the focal point of the image */
     box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.6);
     border-radius: 10px;
     display: block; /* Ensure the image aligns properly */
