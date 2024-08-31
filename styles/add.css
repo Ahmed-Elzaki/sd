@@ -29,7 +29,7 @@
 .title{
 			text-align: center;
 }
-.container1:hover {
+.img:hover {
     transform: scale(1.05);
     transition: transform 0.3s ease-in-out;
     box-shadow: 8px 8px 20px rgba(0, 0, 0, 0.7);
